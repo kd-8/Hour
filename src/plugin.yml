@@ -3,3 +3,8 @@ version: 1.0
 description: Shows the actual time
 author: kd-8
 main: com.kd8.hour
+commands:
+    hour:
+       description: Shows the actual time
+       aliases:
+       - h
